@@ -47,7 +47,7 @@ Reinforcement Learning
 - **Multimodal AI Agent:** New OpenAI voice Agent (Bidirectional Streaming)
 - **Multi-Agents**
 - **Trouble Shooting:** Trace track by using LangSmith or other tools
-- **Authentication:** Labeling in RAG
+- **Authentication:** Labeling in RAG (critical in landing AI Agent)
 - **Metadata/Knowledge Graphs**
 - **Good Prompt/Context**
   
