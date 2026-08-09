@@ -37,17 +37,17 @@ Reinforcement Learning
 ```
 
 ## 3. Agent
-### 3.1 [Vibe Coding](Agent/VCoding.md): Basically, we can rely on a coding agent to write a complete project and carry out test cases.
+### 3.1. [Vibe Coding](Agent/VCoding.md): Basically, we can rely on a coding agent to write a complete project and carry out test cases.
 
-### 3.2 Challenges
-- Loop and restriction: RL
-- Error handling: Use Try/Catch or leverage LLM
-- Memory persistence
-- Multimodal AI agent: New OpenAI voice Agent (Bidirectional Streaming)
-- Multi-Agents
-- Trouble Shooting: Trace track by using LangSmith or other tools
+### 3.2. Challenges
+- **Loop and restriction:** RL
+- **Error handling:** Use Try/Catch or leverage LLM
+- **Memory persistence**
+- **Multimodal AI agent:** New OpenAI voice Agent (Bidirectional Streaming)
+- **Multi-Agents**
+- **Trouble Shooting:** Trace track by using LangSmith or other tools
   
-### 3.3 Libs
+### 3.3. Libs
 - **Python:** LangGraph/Langchain
 - **RAG:** LlamaIndex 
-- **Typescript:** Next.js (full stack)
+- **Typescript:** Next.js (Full Stack)
