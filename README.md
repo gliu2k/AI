@@ -47,8 +47,11 @@ Reinforcement Learning
 - **Multimodal AI Agent:** New OpenAI voice Agent (Bidirectional Streaming)
 - **Multi-Agents**
 - **Trouble Shooting:** Trace track by using LangSmith or other tools
+- **Authentication:** Labeling in RAG
+- **Metadata/Knowledge Graphs**
+- **Good Prompt/Context**
   
 ### 3.3. Libs
 - **Python:** LangGraph/Langchain
-- **RAG:** LlamaIndex 
+- **RAG:** LlamaIndex
 - **Typescript:** Next.js (Full Stack)
