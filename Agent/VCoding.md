@@ -1,10 +1,10 @@
-# 1 Use Google Antigravity tool to build a website with AI coding agents
+Use Google Antigravity tool to build a website with AI coding agents
 
-- Agents create plan
-![alt text](/images/AACoding1_1.png)
+## 1. Agents create plan
+![alt text](/Agent/images/AACoding1_1.png)
 
-- Agent cenereate code  
-![alt text](/images/AACoding1_2.png)
+## 2. Agents generate code  
+![alt text](/Agent/images/AACoding1_2.png)
 
-- Demo
-![alt text](/images/AACoding1_1.png)
+## 3. Demo
+![alt text](/Agent/images/AACoding1_3.png)
