@@ -4,6 +4,7 @@ Self-study notes on Deep Learning (DL), Reinforcement Learning (RL), and AI Agen
 ## 1. Deep learning
 
 ## 2.  Reinforcement learning
+RL will be widely used to explore LLMs and discover optimal solutions within the trained knowledge.
 
 ```text
 Reinforcement Learning
