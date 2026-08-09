@@ -52,6 +52,7 @@ Reinforcement Learning
 - **Good Prompt/Context**
   
 ### 3.3. Libs
-- **Python:** LangGraph/Langchain
-- **RAG:** LlamaIndex
+- **Python:** LangGraph/Langchain(Orchestration)/Hermes Agent (Execution)
 - **Typescript:** Next.js (Full Stack)
+- **RAG:** LlamaIndex
+
