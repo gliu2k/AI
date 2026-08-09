@@ -61,5 +61,7 @@ Use vibe coding to build a demo AI agent with the following features:
 - Tools/MCP
 - Memory(SQLite)
 - Orchestration(LangGraph)
-- Human intervention
+
+### 3.5. Direction
+Local deployed model (open weight model) is definitely the feature for most companies. There will be open-source tools developed to train, distill, fine-tune and test the small model with private labeled data
 
