@@ -56,3 +56,10 @@ Reinforcement Learning
 - **Typescript:** Next.js (Full Stack)
 - **RAG:** LlamaIndex
 
+### 3.4. Demo
+Use vibe coding to build a demo AI agent with the following features:
+- Tools/MCP
+- Memory(SQLite)
+- Orchestration(LangGraph)
+- Human intervention
+
