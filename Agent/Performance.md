@@ -39,6 +39,37 @@ The bottlenecks are in LLM and calling MCP tools.
 ```
 Odata services are very slow.
 
+```text
+
+OData $metadata
+       │
+       ▼
+Metadata parser
+       │
+       ├── Entity
+       ├── Properties
+       ├── Relationships
+       └── Operations
+       │
+       ▼
+Semantic tool registry
+       │
+       ▼
+MCP tools(CAP)
+```
+OData Entity:
+
+```text
+A_SalesOrder
+
+Properties:
+    SalesOrder
+    SoldToParty
+    SalesOrganization
+    CreationDate
+    TotalNetAmount
+```
+
 ### 1.2 Databricks
 
 UC is much better.
