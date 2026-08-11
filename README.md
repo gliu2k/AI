@@ -50,7 +50,8 @@ Reinforcement Learning
 - **Trouble Shooting:** Trace track by using LangSmith or other tools
 - **Authentication:** Labeling in RAG (critical in landing AI Agent)
 - **Metadata/Knowledge Graphs**
-- **Good Prompt/Context**
+- **Good Prompts**
+- **Large Context:** Long-Horization Agent
 - **Performance**: [Agent Performance](Agent/Performance.md)
   
 ### 3.3. Libs
