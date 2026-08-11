@@ -51,6 +51,7 @@ Reinforcement Learning
 - **Authentication:** Labeling in RAG (critical in landing AI Agent)
 - **Metadata/Knowledge Graphs**
 - **Good Prompt/Context**
+- **Performance**: [Agent Performance](Agent/Performance.md)
   
 ### 3.3. Libs
 - **Python:** LangGraph/Langchain(Orchestration)/Hermes Agent (Execution)
