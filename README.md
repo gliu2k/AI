@@ -60,8 +60,9 @@ Reinforcement Learning
 
 ### 3.4. Demo
 Use vibe coding to build a demo AI agent with the following features:
-- Tools/MCP
+- Tools/MCP: Functions -> MCP (Organized Functions) These functions can also be APIs including those for Odata and SQL.
 - Memory(SQLite)
+- RAG
 - Orchestration(LangGraph)
 
 ### 3.5. Direction
